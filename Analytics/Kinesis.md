@@ -1,6 +1,6 @@
 # Kinesis
 
-Kinesis is a managed service service which makes it easy to collect and analyze data and video streams in real time. It is considered a managed alternative for Apache Kafka.
+Kinesis is a managed service which makes it easy to collect and analyze data and video streams in real time. It is considered a managed alternative for Apache Kafka.
 
 - Kinesis Streams: low latency streaming ingest at scale
 - Kinesis Analytics: real-time analytics on streams using SQL
