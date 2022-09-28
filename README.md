@@ -7,67 +7,66 @@ AWS services are grouped according to their primary functions. While some of the
 be covered more than others on the exam, the order and placement of them in this list is no indication of
 relative weight or importance:
 
-* Analytics
-* Application Integration
-* Containers
-* Cost and Capacity Management
-* Data Movement
-* Developer Tools
-* Instances (virtual machines)
-* Management and Governance
-* Networking and Content Delivery
-* Security
-* Serverless
+- [Analytics](Analytics)
+- [Application Integration](Application-Integration)
+- [Compute](Compute)
+- [Containers](Containers)
+- [Database](Database)
+- [Developer Tools](Developer-Tools)
+- [Management and Governance](Management-and-Governance)
+- [Networking and Content Delivery](Networking-and-Content-Delivery)
+- [Security, Identity, and Compliance](Security-Identity-and-Compliance)
+- [Storage](Storage)
 
-Analytics:
-* Amazon Elasticsearch Service (Amazon ES)
-* Amazon Kinesis
+* Analytics:
+  - [Amazon Elasticsearch Service - ES ](Analytics/ES.md)
+  - [Amazon Kinesis](Analytics/Kinesis.md)
 
-Application Integration:
-* Amazon EventBridge (Amazon CloudWatch Events)
-* Amazon Simple Notification Service (Amazon SNS)
-* Amazon Simple Queue Service (Amazon SQS)
-* AWS Step Functions
+* Application Integration:
+  - [ Amazon EventBridge - Amazon CloudWatch Events ](Application-Integration/Amazon-EventBridge.md)
+  - [ Amazon Simple Notification Service - Amazon SNS ](Application-Integration/SNS.md)
+  - [ Amazon Simple Queue Service - Amazon SQS ](Application-Integration/SQS.md)
+  - [ AWS Step Functions ](Application-Integration/AWS-Step-Functions.md)
 
-Compute:
-* Amazon EC2
-* AWS Elastic Beanstalk
-* AWS Lambda
+* Compute:
+  - [Amazon EC2 ](Compute/EC2.md)
+  - [AWS Elastic Beanstalk](Compute/elastic-beanstalk.md)
+  - [AWS Lambda](Compute/lambda.md)
 
-Containers:
-* Amazon Elastic Container Registry (Amazon ECR)
-* Amazon Elastic Container Service (Amazon ECS)
-* Amazon Elastic Kubernetes Services (Amazon EKS)
+* Containers:
+  - [Amazon Elastic Container Registry - Amazon ECR](Containers/ECR.md)
+  - [Amazon Elastic Container Service - Amazon ECS](Containers/ECS.md)
+  - [Amazon Elastic Kubernetes Services - Amazon EKS](Containers/EKS.md)
 
-Database:
-* Amazon DynamoDB
-* Amazon ElastiCache
-* Amazon RDS
+* Database:
+  - [Amazon DynamoDB](Database/DynamoDB.md)
+  - [Amazon ElastiCache](Database/Elasticache.md)
+  - [Amazon RDS](Database/RDS.md)
 
-Developer Tools:
-* AWS CodeArtifact
-* AWS CodeBuild
-* AWS CodeCommit
-* AWS CodeDeploy
-* Amazon CodeGuru
-* AWS CodePipeline
-* AWS CodeStar
-* AWS Fault Injection Simulator
-* AWS X-Ray
+* Developer Tools:
+  - [AWS CodeArtifact](Developer-Tool/CodeArtifact.md)
+  - [AWS CodeBuild](Developer-Tool/CodeBuild.md)
+  - [AWS CodeCommit](Developer-Tool/CodeCommit.md)
+  - [AWS CodeDeploy](Developer-Tool/CodeDeploy.md)
+  - [Amazon CodeGuru](Developer-Tool/CodeGuru.md)
+  - [AWS CodePipeline](Developer-Tool/CodePipeline.md)
+  - [AWS CodeStar](Developer-Tool/CodeStar.md)
+  - [AWS Fault Injection Simulator](Developer-Tool/Fault-injection-simulator.md)
+  - [AWS X-Ray](Developer-Tool/X-ray.md)
 
-Management and Governance:
-* AWS CloudFormation
-* Amazon CloudWatch
+* Management and Governance:
+  - [AWS CloudFormation](Management-and-Governance/CloudFormation.md)
+  - [Amazon CloudWatch](Management-and-Governance/CloudWatch.md)
 
-Networking and Content Delivery:
-* Amazon API Gateway
-* Amazon CloudFront
-* Elastic Load Balancing
+* Networking and Content Delivery:
+  - [Amazon API Gateway](Networking-and-Content-Delivery/API-Gateway.md)
+  - [Amazon CloudFront](Networking-and-Content-Delivery/CloudFront.md)
+  - [Elastic Load Balancing](Networking-and-Content-Delivery/Load-balancing.md)
 
-Security, Identity, and Compliance:
-* Amazon Cognito
-* AWS Identity and Access Management (IAM)
-* AWS Key Management Service (AWS KMS)
+* Security, Identity, and Compliance:
+  - [Amazon Cognito](Security-Identity-and-Compliance/Cognito.md)
+  - [AWS Identity and Access Management - IAM](Security-Identity-and-Compliance/IAM.md)
+  - [AWS Key Management Service - AWS KMS](Security-Identity-and-Compliance/KMS.md)
 
-Storage:
-* Amazon S3
+* Storage:
+  - [Amazon S3](Storage/S3.md)
