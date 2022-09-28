@@ -116,7 +116,7 @@
 
 ----
 
-***Question : 9 ]** As a developer, you need to query 3 TB of data to obtain Report of business. Which of the following AWS service is best for deliver this result?
+**Question : 9 ]** As a developer, you need to query 3 TB of data to obtain Report of business. Which of the following AWS service is best for deliver this result?
 
   1. Amazon EBS
   2. Amazon S3
