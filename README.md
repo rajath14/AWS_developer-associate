@@ -11,17 +11,6 @@ AWS services are grouped according to their primary functions. While some of the
 be covered more than others on the exam, the order and placement of them in this list is no indication of
 relative weight or importance:
 
-- [Analytics](Analytics)
-- [Application Integration](Application-Integration)
-- [Compute](Compute)
-- [Containers](Containers)
-- [Database](Database)
-- [Developer Tools](Developer-Tools)
-- [Management and Governance](Management-and-Governance)
-- [Networking and Content Delivery](Networking-and-Content-Delivery)
-- [Security, Identity, and Compliance](Security-Identity-and-Compliance)
-- [Storage](Storage)
-
 * Analytics:
   - [Amazon Elasticsearch Service - ES ](Analytics/ES.md)
   - [Amazon Kinesis](Analytics/Kinesis.md)
