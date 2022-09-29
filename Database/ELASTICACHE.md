@@ -37,4 +37,4 @@ User Session Store
 * Quick retrieval of objects from memory
 * Cache often accessed objects
 * Overall, Redis has largely grown in popularity and has better feature sets than memcached
-* Most likely, you’d probably only want to use Redis for caching needs
+* Most likely, you’d probably only want to use Redis for caching needs.
