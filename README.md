@@ -36,7 +36,7 @@ relative weight or importance:
 
 * Database:
   - [Amazon DynamoDB](Database/DynamoDB.md)
-  - [Amazon ElastiCache](Database/elasticache.md)
+  - [Amazon ElastiCache](Database/ELASTICACHE.md)
   - [Amazon RDS](Database/RDS.md)
 
 * Developer Tools:
