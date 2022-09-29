@@ -24,7 +24,7 @@ relative weight or importance:
   - [ AWS Step Functions ](Application-Integration/AWS-Step-Functions.md)
 
 * Compute:
-  - [Amazon EC2 ](Compute/EC2)
+  - [Amazon EC2 ](Compute/EC2.md)
   - [AWS Elastic Beanstalk](Compute/elastic-beanstalk.md)
   - [AWS Lambda](Compute/lambda.md)
   - [Serverless Applications](Compute/sam.md)
