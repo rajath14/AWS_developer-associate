@@ -14,6 +14,8 @@ relative weight or importance:
 * Analytics:
   - [Amazon Elasticsearch Service - ES ](Analytics/ES.md)
   - [Amazon Kinesis](Analytics/Kinesis.md)
+  - [Amazon RedShift](Analytics/RedShift.md)
+  - [Amazon Glue](Analytics/Glue.md)
 
 * Application Integration:
   - [ Amazon EventBridge - Amazon CloudWatch Events ](Application-Integration/Amazon-EventBridge.md)
