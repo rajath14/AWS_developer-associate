@@ -51,17 +51,12 @@ relative weight or importance:
   - [AWS X-Ray](Developer-Tool/X-ray.md)
 
 * Management and Governance:
-  - [AWS CloudFormation](Management-and-Governance/CloudFormation.md)
-  - [Amazon CloudWatch](Management-and-Governance/CloudWatch.md)
-
-* Networking and Content Delivery:
-  - [Amazon API Gateway](Networking-and-Content-Delivery/API-Gateway.md)
-  - [Amazon CloudFront](Networking-and-Content-Delivery/CloudFront.md)
-  - [Elastic Load Balancing](Networking-and-Content-Delivery/Load-balancing.md)
+  - [AWS CloudFormation](Management-and-Governance/Cloudformation.md)
+  - [Amazon CloudWatch](Management-and-Governance/Cloudwatch.md)
 
 * Security, Identity, and Compliance:
-  - [Amazon Cognito](Security-Identity-and-Compliance/Cognito.md)
-  - [AWS Identity and Access Management - IAM](Security-Identity-and-Compliance/IAM.md)
+  - [Amazon Cognito](Security-Identity-and-Compliance/cognito.md)
+  - [AWS Identity and Access Management - IAM](Security-Identity-and-Compliance/iam.md)
   - [AWS Key Management Service - AWS KMS](Security-Identity-and-Compliance/KMS.md)
 
 * Storage:
